@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [@Saptarshi767](https://github.com/Saptarshi767)
 
-![Tech Savvy](https://drive.google.com/file/d/1KEA6U40YbXJeKEh5txqwcqTJTtbKP8dY/view?usp=drive_link) <!-- Add your Google Drive GIF link here -->
+![Tech Savvy](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) <!-- Add your Google Drive GIF link here -->
 
 ## 👀 I’m interested in...
 - Cutting-edge technologies and innovations
@@ -20,7 +20,7 @@
 
 ## 📫 How to reach me...
 - [LinkedIn](https://www.linkedin.com/in/saptarshi767)
-- [Twitter](https://drive.google.com/file/d/1KEA6U40YbXJeKEh5txqwcqTJTtbKP8dY/view?usp=sharing) <!-- Replace with your actual Twitter profile if available -->
+- [Twitter](https://x.com/SaptarshiM_?t=DxYGijThZbIwPCCgbwp8Gw&s=09) <!-- Replace with your actual Twitter profile if available -->
 - [Email](mailto:saptarshimahapatra007@gmail.com) <!-- Replace with your actual email address -->
 
 ## 😄 Pronouns:
