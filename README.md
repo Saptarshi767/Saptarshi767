@@ -19,7 +19,7 @@
 - Open-source contributions and tech communities
 
 ## 📫 How to reach me...
-- [LinkedIn](https://www.linkedin.com/in/saptarshi767)
+- [LinkedIn](https://www.linkedin.com/in/saptarshi-mahapatra-4a1108268)
 - [Twitter](https://x.com/SaptarshiM_?t=DxYGijThZbIwPCCgbwp8Gw&s=09) <!-- Replace with your actual Twitter profile if available -->
 - [Email](mailto:saptarshimahapatra007@gmail.com) <!-- Replace with your actual email address -->
 
