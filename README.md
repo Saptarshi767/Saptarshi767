@@ -1,6 +1,6 @@
 # 👋 Hi, I’m [@Saptarshi767](https://github.com/Saptarshi767)
 
-![Tech Savvy](https://drive.google.com/file/d/1KEA6U40YbXJeKEh5txqwcqTJTtbKP8dY/view?usp=sharing) <!-- Add your Google Drive GIF link here -->
+![Tech Savvy](https://drive.google.com/file/d/1KEA6U40YbXJeKEh5txqwcqTJTtbKP8dY/view?usp=drive_link) <!-- Add your Google Drive GIF link here -->
 
 ## 👀 I’m interested in...
 - Cutting-edge technologies and innovations
