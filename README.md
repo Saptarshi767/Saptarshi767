@@ -66,7 +66,7 @@ const saptarshi = {
 ### 🏆 Achievements
 - 🥇 Built successful blockchain startup
 - 📊 Analyzed 1M+ data points
-- 🌟 500+ GitHub stars across projects
+- 🚀 Deployed 10+ full-stack applications
 - 👥 Led teams of 10+ developers
 
 </td>
