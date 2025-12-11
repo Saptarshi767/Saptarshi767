@@ -58,13 +58,13 @@ const saptarshi = {
 
 ### 🎯 2025 Goals
 - [ ] Launch 3 major blockchain projects
-- [ ] Contribute to 50+ open source repositories
+- [ ] Contribute to 20+ open source repositories
 - [ ] Mentor 100+ developers
 - [ ] Speak at international tech conferences
-- [ ] Build a unicorn startup 🦄
+- [ ] Work for a unicorn startup 🦄
 
 ### 🏆 Achievements
-- 🥇 Built successful blockchain startup
+- 🥇 Building blockchain startup
 - 📊 Analyzed 1M+ data points
 - 🚀 Deployed 10+ full-stack applications
 - 👥 Led teams of 10+ developers
