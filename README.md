@@ -137,16 +137,25 @@ const saptarshi = {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saptarshi767&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats"/>
+        <!-- Stats -->
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Saptarshi767&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&cache_seconds=86400" alt="GitHub Stats"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saptarshi767&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages"/>
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Saptarshi767&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages"/>
       </td>
     </tr>
   </table>
 
-  <img src="https://streak-stats.demolab.com?user=Saptarshi767&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
+  <!-- Streak (separate host; usually reliable) -->
+  <img src="https://streak-stats.demolab.com?user=Saptarshi767&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
+
+<!-- Activity graph is the most fragile card. If it 401s, hide it or self-host it. -->
+<!--
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi767&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&radius=8&cache_seconds=86400" alt="Activity Graph"/>
+-->
+
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptarshi767&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph"/>
